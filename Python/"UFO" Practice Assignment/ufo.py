@@ -4,7 +4,7 @@ country = []
 location = []
 shape = []
 description = []
-filePath = 'Python / "UFO" Practice Assignment/'
+filePath = "C:\Users\fafay\OneDrive\Desktop\Python"
 
 # -------------------------------------------------- DO NOT ALTER -----
 def importFile():
