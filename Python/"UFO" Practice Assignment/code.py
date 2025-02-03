@@ -4,7 +4,7 @@ country = []
 location = []
 shape = []
 description = []
-filePath = 'Software Design and Development/RECAP - UFO/'
+filePath = 'Python / "UFO" Practice Assignment/'
 
 # -------------------------------------------------- DO NOT ALTER -----
 def importFile():
