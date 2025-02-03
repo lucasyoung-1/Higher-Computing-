@@ -4,7 +4,8 @@ country = []
 location = []
 shape = []
 description = []
-filePath = "C:\Users\fafay\OneDrive\Desktop\Python"
+filePath = r"C:\Users\fafay\OneDrive\Desktop\Python"
+
 
 # -------------------------------------------------- DO NOT ALTER -----
 def importFile():
